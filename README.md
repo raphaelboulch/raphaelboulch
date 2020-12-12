@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello there ! 👋 
 
-<!--
-**raphaelboulch/raphaelboulch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Raphaël Boulc'h, a French student in Network and Telecommunications. 
+Passionate about IT in general, I learn to code in my spare time. 
+Apart from that, I have a few other passions: Football, video games, and Japanese culture. Feel free to contact me for anything, I'm always happy to help !
 
-Here are some ideas to get you started:
+## Statistics 📊
+<a href="https://github.com/raphaelboulch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raphaelboulch&count_private=true&hide_border=true&show_icons=true&theme=dark" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/raphaelboulch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphaelboulch&hide_border=true&theme=dark" />
+</a>
